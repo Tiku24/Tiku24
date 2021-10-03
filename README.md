@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with how beginner can starts contributing.
     
     
-  As a beginner which thing should I start contribuing in a project...???😥
+  As a beginner which thing should I start contribute in a project...???😥
   
