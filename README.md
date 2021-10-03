@@ -5,4 +5,7 @@
 - 🌱 I’m currently learning to contribute in open source.
 - 👯 I’m looking to collaboratation.
 - 🤔 I’m looking for help with how beginner can starts contributing.
-
+    
+    
+  As a beginner which thing should I start contribuing in a project...???😥
+  
